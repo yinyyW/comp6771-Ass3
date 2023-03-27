@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/comp9313/Documents/comp6771/ass3/build",
+  "command": "/usr/bin/c++ -I/home/comp9313/Documents/comp6771/ass3/include -I/home/comp9313/Documents/comp6771/ass3/source -g -std=c++20 -o source/CMakeFiles/client.dir/client.cpp.o -c /home/comp9313/Documents/comp6771/ass3/source/client.cpp",
+  "file": "/home/comp9313/Documents/comp6771/ass3/source/client.cpp"
+},
+{
+  "directory": "/home/comp9313/Documents/comp6771/ass3/build",
+  "command": "/usr/bin/c++ -I/home/comp9313/Documents/comp6771/ass3/include -I/home/comp9313/Documents/comp6771/ass3/test -I/home/comp9313/Documents/comp6771/ass3/test/. -g -std=c++20 -o test/CMakeFiles/test_main.dir/test_main.cpp.o -c /home/comp9313/Documents/comp6771/ass3/test/test_main.cpp",
+  "file": "/home/comp9313/Documents/comp6771/ass3/test/test_main.cpp"
+},
+{
+  "directory": "/home/comp9313/Documents/comp6771/ass3/build",
+  "command": "/usr/bin/c++ -I/home/comp9313/Documents/comp6771/ass3/include -I/home/comp9313/Documents/comp6771/ass3/test/graph -I/home/comp9313/Documents/comp6771/ass3/test/. -g -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/graph_test1.dir/graph_test1.cpp.o -c /home/comp9313/Documents/comp6771/ass3/test/graph/graph_test1.cpp",
+  "file": "/home/comp9313/Documents/comp6771/ass3/test/graph/graph_test1.cpp"
+},
+{
+  "directory": "/home/comp9313/Documents/comp6771/ass3/build",
+  "command": "/usr/bin/c++ -I/home/comp9313/Documents/comp6771/ass3/include -I/home/comp9313/Documents/comp6771/ass3/test/graph -I/home/comp9313/Documents/comp6771/ass3/test/. -g -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/graph_test2.dir/graph_test2.cpp.o -c /home/comp9313/Documents/comp6771/ass3/test/graph/graph_test2.cpp",
+  "file": "/home/comp9313/Documents/comp6771/ass3/test/graph/graph_test2.cpp"
+},
+{
+  "directory": "/home/comp9313/Documents/comp6771/ass3/build",
+  "command": "/usr/bin/c++ -I/home/comp9313/Documents/comp6771/ass3/include -I/home/comp9313/Documents/comp6771/ass3/test/graph -I/home/comp9313/Documents/comp6771/ass3/test/. -g -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/graph_test3.dir/graph_test3.cpp.o -c /home/comp9313/Documents/comp6771/ass3/test/graph/graph_test3.cpp",
+  "file": "/home/comp9313/Documents/comp6771/ass3/test/graph/graph_test3.cpp"
+},
+{
+  "directory": "/home/comp9313/Documents/comp6771/ass3/build",
+  "command": "/usr/bin/c++ -I/home/comp9313/Documents/comp6771/ass3/include -I/home/comp9313/Documents/comp6771/ass3/test/graph -I/home/comp9313/Documents/comp6771/ass3/test/. -g -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/graph_test4.dir/graph_test4.cpp.o -c /home/comp9313/Documents/comp6771/ass3/test/graph/graph_test4.cpp",
+  "file": "/home/comp9313/Documents/comp6771/ass3/test/graph/graph_test4.cpp"
+},
+{
+  "directory": "/home/comp9313/Documents/comp6771/ass3/build",
+  "command": "/usr/bin/c++ -I/home/comp9313/Documents/comp6771/ass3/include -I/home/comp9313/Documents/comp6771/ass3/test/graph -I/home/comp9313/Documents/comp6771/ass3/test/. -g -Wno-error -Wno-self-assign-overloaded -std=c++20 -o test/graph/CMakeFiles/graph_test5.dir/graph_test5.cpp.o -c /home/comp9313/Documents/comp6771/ass3/test/graph/graph_test5.cpp",
+  "file": "/home/comp9313/Documents/comp6771/ass3/test/graph/graph_test5.cpp"
+}
+]

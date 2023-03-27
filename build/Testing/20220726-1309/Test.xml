@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20220726-1309-Experimental"
+	Name="comp9313-VirtualBox"
+	Generator="ctest-3.22.4"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.2.0"
+	OSName="Linux"
+	Hostname="comp9313-VirtualBox"
+	OSRelease="5.15.0-41-generic"
+	OSVersion="#44-Ubuntu SMP Wed Jun 22 14:20:53 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="68"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="1"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="923"
+	TotalPhysicalMemory="7951"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3194"
+	>
+	<Testing>
+		<StartDateTime>Jul 26 23:37 AEST</StartDateTime>
+		<StartTestTime>1658842644</StartTestTime>
+		<TestList>
+			<Test>./test/graph/test.graph_test1</Test>
+			<Test>./test/graph/test.graph_test2</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>test.graph_test1</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.graph_test1</FullName>
+			<FullCommandLine>/home/comp9313/Documents/comp6771/ass3/build/test/graph/graph_test1</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00360246</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/comp9313/Documents/comp6771/ass3/build/test/graph/graph_test1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyztaUq4HLMyVEoSS0uKVYoSCwuTk1R0DBSADGKSjLz84oVMvMUjMDyCsmJxanFmlxcAE/hI2Q=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>test.graph_test2</Name>
+			<Path>./test/graph</Path>
+			<FullName>./test/graph/test.graph_test2</FullName>
+			<FullCommandLine>/home/comp9313/Documents/comp6771/ass3/build/test/graph/graph_test2</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.00580664</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/comp9313/Documents/comp6771/ass3/build/test/graph/graph_test2</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJwz0OBSMFSoUTCFUBZcCkZAyohLk8sQKGMAZBtChEyAQkZQxcZAtrEGkLClLuByzMlRKEktLilWKEgsLk5NUdAwVAAxikoy8/MUMvOAtoOkFZITi1M1ubgAVsMsmA==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jul 26 23:37 AEST</EndDateTime>
+		<EndTestTime>1658842644</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

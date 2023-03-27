@@ -1,0 +1,93 @@
+Start testing: Jul 29 03:07 AEST
+----------------------------------------------------------
+4/5 Testing: test.graph_test4
+4/5 Test: test.graph_test4
+Command: "/home/comp9313/Documents/comp6771/ass3/build/test/graph/graph_test4"
+Directory: /home/comp9313/Documents/comp6771/ass3/build/test/graph
+"test.graph_test4" start time: Jul 29 03:07 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (62 assertions in 4 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test.graph_test4" end time: Jul 29 03:07 AEST
+"test.graph_test4" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: test.graph_test5
+5/5 Test: test.graph_test5
+Command: "/home/comp9313/Documents/comp6771/ass3/build/test/graph/graph_test5"
+Directory: /home/comp9313/Documents/comp6771/ass3/build/test/graph
+"test.graph_test5" start time: Jul 29 03:07 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (3 assertions in 2 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test.graph_test5" end time: Jul 29 03:07 AEST
+"test.graph_test5" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: test.graph_test3
+3/5 Test: test.graph_test3
+Command: "/home/comp9313/Documents/comp6771/ass3/build/test/graph/graph_test3"
+Directory: /home/comp9313/Documents/comp6771/ass3/build/test/graph
+"test.graph_test3" start time: Jul 29 03:07 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (22 assertions in 7 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test.graph_test3" end time: Jul 29 03:07 AEST
+"test.graph_test3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: test.graph_test2
+2/5 Test: test.graph_test2
+Command: "/home/comp9313/Documents/comp6771/ass3/build/test/graph/graph_test2"
+Directory: /home/comp9313/Documents/comp6771/ass3/build/test/graph
+"test.graph_test2" start time: Jul 29 03:07 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (53 assertions in 16 test cases)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test.graph_test2" end time: Jul 29 03:07 AEST
+"test.graph_test2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+1/5 Testing: test.graph_test1
+1/5 Test: test.graph_test1
+Command: "/home/comp9313/Documents/comp6771/ass3/build/test/graph/graph_test1"
+Directory: /home/comp9313/Documents/comp6771/ass3/build/test/graph
+"test.graph_test1" start time: Jul 29 03:07 AEST
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (25 assertions in 7 test cases)
+
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"test.graph_test1" end time: Jul 29 03:07 AEST
+"test.graph_test1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 29 03:07 AEST
